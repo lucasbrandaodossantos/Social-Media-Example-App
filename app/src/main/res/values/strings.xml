@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social Media Example App</string>
+    <string name="title_user">User</string>
+    <string name="title_photos">Photos</string>
+</resources>
