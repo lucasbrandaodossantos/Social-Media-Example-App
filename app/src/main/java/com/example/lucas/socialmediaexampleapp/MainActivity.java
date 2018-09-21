@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     }
 
 
-    /*MÉTODO PARA VERIFICAR SE O FRAGMENT IRÁ INICIAR*/
+    /*MÉTODO PARA VERIFICAR O FRAGMENT QUE IRÁ INICIAR*/
     private boolean loadFragment (Fragment fragment){
         if (fragment!= null){
 
